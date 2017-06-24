@@ -1,0 +1,2 @@
+# NFautomaton
+Nondeterministic finite automaton
