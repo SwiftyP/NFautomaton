@@ -17,4 +17,4 @@ Nondeterministic finite automaton
 
 ## RunAuto
 
-**RunAuto n** reed description of automaton and example string from file n and check if given automaton accepts given string
+**RunAuto n** read description of automaton and example string from file n and check if given automaton accepts given string
